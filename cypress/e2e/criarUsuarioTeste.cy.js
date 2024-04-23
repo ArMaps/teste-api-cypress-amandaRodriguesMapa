@@ -24,8 +24,8 @@ describe('validar a api RaroMDB', () => {
             })
 
         })
-    
-    it('tentativa de criação um usuário sem informar o campo name', () => {
+
+        it('tentativa de criação um usuário sem informar o campo name', () => {
             Body.name = ''
             cy.request({
                 method: 'POST',
@@ -41,7 +41,7 @@ describe('validar a api RaroMDB', () => {
             })
 
         })
-    it('tentativa de criação um usuário sem informar o campo email', () => {
+        it('tentativa de criação um usuário sem informar o campo email', () => {
             Body.name = faker.person.fullName(),
                 Body.email = ''
             cy.request({
@@ -59,7 +59,7 @@ describe('validar a api RaroMDB', () => {
             })
 
         })
-    it('tentativa de criação um usuário sem informar o campo password', () => {
+        it('tentativa de criação um usuário sem informar o campo password', () => {
             Body.name = faker.person.fullName(),
                 Body.email = faker.internet.email(),
                 Body.password = ''
@@ -77,7 +77,7 @@ describe('validar a api RaroMDB', () => {
             })
 
         })
-    it('tentativa de criação um usuário com senha com 13 dígitos', () => {
+        it('tentativa de criação um usuário com senha com 13 dígitos', () => {
             Body.name = faker.person.fullName(),
                 Body.email = faker.internet.email(),
                 Body.password = '1234567890123'
@@ -95,6 +95,6 @@ describe('validar a api RaroMDB', () => {
 
         })
     })
-        
+
 })
 

@@ -1,7 +1,86 @@
-{
+[
+  {
     "title": "Bridget Jones",
     "genre": "comedia romantica",
     "description": "bridget e seus dilemas",
     "durationInMinutes": 120,
     "releaseYear": 2016
+  },
+  {
+    "title": "",
+    "genre": "comedia romantica",
+    "description": "bridget e seus dilemas",
+    "durationInMinutes": 120,
+    "releaseYear": 2016
+  },
+  {
+    "title": "Bridget Jones",
+    "genre": "",
+    "description": "bridget e seus dilemas",
+    "durationInMinutes": 120,
+    "releaseYear": 2016
+  },
+  {
+    "title": "Bridget Jones",
+    "genre": "comedia romantica",
+    "description": "",
+    "durationInMinutes": 120,
+    "releaseYear": 2016
+  },
+  {
+    "title": "Bridget Jones",
+    "genre": "comedia romantica",
+    "description": "bridget e seus dilemas",
+    "durationInMinutes": "",
+    "releaseYear": 2016
+  },
+  {
+    "title": "Bridget Jones",
+    "genre": "comedia romantica",
+    "description": "bridget e seus dilemas",
+    "durationInMinutes": 120,
+    "releaseYear": ""
+  },
+  {
+    "title": "Argylle",
+    "genre": "ação",
+    "description": "superman vira espião agora",
+    "durationInMinutes": 120,
+    "releaseYear": 2024
+  },
+  {
+    "title": "",
+    "genre": "ação",
+    "description": "superman vira espião agora",
+    "durationInMinutes": 120,
+    "releaseYear": 2024
+  },
+  {
+    "title": "Argylle",
+    "genre": "",
+    "description": "superman vira espião agora",
+    "durationInMinutes": 120,
+    "releaseYear": 2024
+  },
+  {
+    "title": "Argylle",
+    "genre": "ação",
+    "description": "",
+    "durationInMinutes": 120,
+    "releaseYear": 2024
+  },
+  {
+    "title": "Argylle",
+    "genre": "ação",
+    "description": "superman vira espião agora",
+    "durationInMinutes": "",
+    "releaseYear": 2024
+  },
+  {
+    "title": "Argylle",
+    "genre": "ação",
+    "description": "superman vira espião agora",
+    "durationInMinutes": 120,
+    "releaseYear": ""
   }
+]
